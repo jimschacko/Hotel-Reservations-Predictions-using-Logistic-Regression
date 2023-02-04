@@ -1,0 +1,15 @@
+
+Part 1: Data preprocessing
+1. Importing the libraries
+2. Importing the dataset
+3. Dealing with missing data
+4. Encoding categorical variables
+5. Splitting the dataset into train and test set
+6. Feature scaling
+
+# Part 2: Building the model
+Logistic Reegression model and cross Validation
+
+# Part 3: # Randomized Search to find the best parameters (Logistic regression)
+
+#Part 4: Final Model
